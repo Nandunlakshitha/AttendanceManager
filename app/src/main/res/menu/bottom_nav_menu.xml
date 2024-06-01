@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_add_subject"
+        android:title="Add Subject"
+        android:icon="@drawable/ic_add_subject" />
+    <item
+        android:id="@+id/navigation_add_student"
+        android:title="Add Student"
+        android:icon="@drawable/ic_add_student" />
+</menu>

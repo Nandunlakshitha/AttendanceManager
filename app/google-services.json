@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483896587452",
+    "project_id": "attendance-manager-743dd",
+    "storage_bucket": "attendance-manager-743dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483896587452:android:ad227545fa8292d2ecccb9",
+        "android_client_info": {
+          "package_name": "com.example.attendancemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBca6Ae3kKIB78Xkw12K6wtMT6tT4nEyzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
